@@ -1,16 +1,46 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dong An 👋</h1>
 
-<!--
-**kirisky/kirisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://linkedin.com/in/MoienTajik" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://twitter.com/MoienTajik" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+</p>
+
+- 📃 I blog here: https://kirisky.dev
+- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript
+- 👯 I’m looking to collaborate on: .NET projects
+- 👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip)
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/MoienTajik" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
