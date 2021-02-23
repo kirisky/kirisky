@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dong An 👋</h1>
 
 <p align="center">
- <a href="https://linkedin.com/in/MoienTajik" target="_blank">
+ <a href="https://linkedin.com/in/dong-an-14b66575" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
