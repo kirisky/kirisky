@@ -5,7 +5,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
- <a href="https://twitter.com/MoienTajik" target="_blank">
+ <a href="https://twitter.com/kirisky1" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
 </p>
