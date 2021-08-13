@@ -27,8 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- ⚡ Eyes on C#, F# and .NET
-- 👯 I’m looking to collaborate on: .NET projects
+- ⚡ Eyes on the future.
 
 </br>
 
@@ -41,6 +40,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirisky&layout=compact&hide=html&theme=dark" alt="ardalis" />
 </p>
-
-
-
