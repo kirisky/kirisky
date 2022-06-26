@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dong An 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/dong-a-14b66575" target="_blank">
